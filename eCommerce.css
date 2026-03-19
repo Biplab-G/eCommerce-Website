@@ -1,5 +1,4 @@
 body {
-  font-family: 'Poppins', sans-serif;
   color: #333333;
 }
 
@@ -203,4 +202,35 @@ a {
   color: #B88E2F;
   background-color: white;
   font-size: 16px 'semiBoild';
+}
+
+.product-name {
+  margin: 10px 0px 0px 25px;
+  font: 24px 'semiBoild';
+  font-family: 'Poppins';
+  color: #3A3A3A;
+
+}
+
+ .product-text {
+  margin: 10px 0px 0px 25px;
+  font: 16px 'medium';
+  font-family: 'Poppins';
+  color: #898989;
+ }
+
+.article-price {
+  margin: 10px 0px 0px 25px;
+  font: 20px 'semiBoild';
+  font-family: 'Poppins';
+  color: #3A3A3A;
+
+}
+
+.article-MRP {
+  margin: 0px 0px 0px 25px;
+  font: 16px 'Regular';
+  font-family: 'Poppins';
+  color: #B0B0B0;
+  text-decoration: 'Serif';
 }
